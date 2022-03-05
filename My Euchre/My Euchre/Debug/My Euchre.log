@@ -1,0 +1,67 @@
+﻿  Cards.cpp
+  Dealer.cpp
+  Deck.cpp
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Deck.cpp(81,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Deck.cpp(99,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Deck.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+  Euchre1.cpp
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.h(34,26): error C2092: 'm_playersArray' array element type cannot be function or abstract class type
+  Game.cpp
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.h(34,26): error C2092: 'm_playersArray' array element type cannot be function or abstract class type
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(48,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(94,9): error C2259: 'Dealer': cannot instantiate abstract class
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Dealer.h(5): message : see declaration of 'Dealer'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(94,9): message : due to following members:
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(94,9): message : 'void UsingDeck::ShuffletheDeck(void)': is abstract
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\UsingDeck.h(12): message : see declaration of 'UsingDeck::ShuffletheDeck'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(94,9): message : 'Cards &UsingDeck::TopCardisCopied(void)': is abstract
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\UsingDeck.h(13): message : see declaration of 'UsingDeck::TopCardisCopied'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(94,15): error C2259: 'Dealer': cannot instantiate abstract class
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Dealer.h(5): message : see declaration of 'Dealer'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(94,15): message : due to following members:
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(94,15): message : 'void UsingDeck::ShuffletheDeck(void)': is abstract
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\UsingDeck.h(12): message : see declaration of 'UsingDeck::ShuffletheDeck'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(94,15): message : 'Cards &UsingDeck::TopCardisCopied(void)': is abstract
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\UsingDeck.h(13): message : see declaration of 'UsingDeck::TopCardisCopied'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(99,9): error C2259: 'Dealer': cannot instantiate abstract class
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Dealer.h(5): message : see declaration of 'Dealer'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(99,9): message : due to following members:
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(99,9): message : 'void UsingDeck::ShuffletheDeck(void)': is abstract
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\UsingDeck.h(12): message : see declaration of 'UsingDeck::ShuffletheDeck'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(99,9): message : 'Cards &UsingDeck::TopCardisCopied(void)': is abstract
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\UsingDeck.h(13): message : see declaration of 'UsingDeck::TopCardisCopied'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(100,9): error C2259: 'Dealer': cannot instantiate abstract class
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Dealer.h(5): message : see declaration of 'Dealer'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(100,9): message : due to following members:
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(100,9): message : 'void UsingDeck::ShuffletheDeck(void)': is abstract
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\UsingDeck.h(12): message : see declaration of 'UsingDeck::ShuffletheDeck'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(100,9): message : 'Cards &UsingDeck::TopCardisCopied(void)': is abstract
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\UsingDeck.h(13): message : see declaration of 'UsingDeck::TopCardisCopied'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(101,9): error C2259: 'Dealer': cannot instantiate abstract class
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Dealer.h(5): message : see declaration of 'Dealer'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(101,9): message : due to following members:
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(101,9): message : 'void UsingDeck::ShuffletheDeck(void)': is abstract
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\UsingDeck.h(12): message : see declaration of 'UsingDeck::ShuffletheDeck'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(101,9): message : 'Cards &UsingDeck::TopCardisCopied(void)': is abstract
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\UsingDeck.h(13): message : see declaration of 'UsingDeck::TopCardisCopied'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(107,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(149,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(213,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(262,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(286,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(294,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(318,67): error C2660: 'Cards::GetType': function does not take 1 arguments
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Cards.h(18,11): message : see declaration of 'Cards::GetType'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(339,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(379,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(407,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Game.cpp(479,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hands.cpp
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Hands.cpp(81,1): error C2556: 'void Hands::GetPlayerNumber(void) const': overloaded function differs only by return type from 'int Hands::GetPlayerNumber(void) const'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Hands.h(23): message : see declaration of 'Hands::GetPlayerNumber'
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Hands.cpp(80,13): error C2371: 'Hands::GetPlayerNumber': redefinition; different basic types
+C:\Users\13129\Desktop\CPP_Class\My Euchre\My Euchre\Hands.h(23): message : see declaration of 'Hands::GetPlayerNumber'
+  headercompiler.cpp
+  UsingDeck.cpp
+  Generating Code...
